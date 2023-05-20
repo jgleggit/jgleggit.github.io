@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working with Javascript, Golang, Python, 
+
+- 🌱 I’m currently learning DevSecOps, Graphs, GraphViz, Pair,
+
+- 🌱 I’m planning to learn BDD, TDD, Gherkin, Atomic & Semantic Commits, 
+      Typescript, React, and... 😊 reach out to my AI! 
+
+
+
+
+
+
+
 <!--
 **jgleggit/jgleggit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
