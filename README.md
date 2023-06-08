@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working with Javascript, Golang, Python, 
 
-- 🌱 I’m currently learning DevSecOps, Graphs, GraphViz, Pair,
+- 🌱 I’m currently learning DevSecOps, Pair Programming, Graph Practice, Graphviz
 
-- 🌱 I’m planning to learn BDD, TDD, Gherkin, Atomic & Semantic Commits, 
-      Typescript, React, and... 😊 reach out to my AI! 
+- 🌱 I’m planning to learn and use BDD, TDD, Gherkin, Atomic & Semantic Commits, 
+      Typescript, React, and... well... for more... 😊 reach out to my AI! 
 
 
 
